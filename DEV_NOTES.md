@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated dependencies to latest stable versions
 - Improved log message formatting
 - Consolidated duplicate helper functions
+
+## 2026-05-13
+- Fixed off-by-one error in loop
+- Pinned dependency versions for reproducibility
+- Cross-checked behaviour against spec
